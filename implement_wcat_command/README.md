@@ -1,4 +1,6 @@
-# Wcat 🚀🚀 
+# Problem Statement
+Implement the command
+## Wcat 🚀🚀 
 
 It is used to display or make a copy content of one or more files in terminal 
 
