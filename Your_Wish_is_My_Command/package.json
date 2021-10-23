@@ -1,0 +1,15 @@
+{
+  "name": "your_wish_is_my_command",
+  "version": "1.0.0",
+  "description": "A platform independent command line application which provides the following utilities:\r    1. ywmc tree -> displays current directory structure in tree format\r    2. ywmc organize -> organises all the files in the current directory in separate directories on basis of file types viz media, archives, documents, app\r    3. ywmc help -> lists all the commands available in the command line application(Your_Wish_Is_My_Command)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "ywmc": "main.js"
+  }
+}
